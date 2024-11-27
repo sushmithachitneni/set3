@@ -1,6 +1,6 @@
 public class PrimeCheck {
     public static void main(String[] args) {
-        int number = 9; 
+        int number = 59; 
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
         } else {
